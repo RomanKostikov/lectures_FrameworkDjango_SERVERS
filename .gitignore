@@ -1,8 +1,6 @@
-/myproject/media/
-/static/
-*.sqlite3
-*.log
-*.pyc
+.sqlite3
+.log
+.pyc
 
-/myproject/log/
-/media/
+/log
+/media
