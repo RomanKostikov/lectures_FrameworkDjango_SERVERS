@@ -1,0 +1,694 @@
+Watching for file changes with StatReloader
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /prefix/about/ HTTP/1.1" 200 27
+"GET /prefix/ HTTP/1.1" 200 13
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 13
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp\views.py", line 32, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+"GET /prefix/about/ HTTP/1.1" 200 27
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-10 16:55:29,324 autoreload 14156 16700 Watching for file changes with StatReloader
+ERROR 2024-01-10 16:55:39,894 views 14156 9472 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp\views.py", line 32, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+INFO 2024-01-10 16:55:39,895 basehttp 14156 9472 "GET /prefix/about/ HTTP/1.1" 200 27
+INFO 2024-01-10 16:55:46,977 views 14156 9472 Index page accessed
+INFO 2024-01-10 16:55:46,977 basehttp 14156 9472 "GET /prefix/ HTTP/1.1" 200 13
+INFO 2024-01-15 14:38:38,550 autoreload 6844 2476 Watching for file changes with StatReloader
+INFO 2024-01-18 14:23:43,087 autoreload 26584 17944 Watching for file changes with StatReloader
+WARNING 2024-01-18 14:23:56,582 log 26584 9696 Not Found: /
+WARNING 2024-01-18 14:23:56,583 basehttp 26584 9696 "GET / HTTP/1.1" 404 2274
+WARNING 2024-01-18 14:23:56,835 log 26584 9696 Not Found: /favicon.ico
+WARNING 2024-01-18 14:23:56,835 basehttp 26584 9696 "GET /favicon.ico HTTP/1.1" 404 2325
+WARNING 2024-01-18 14:24:26,561 log 26584 9696 Not Found: /les3/
+WARNING 2024-01-18 14:24:26,562 basehttp 26584 9696 "GET /les3/ HTTP/1.1" 404 2548
+INFO 2024-01-18 14:24:42,752 basehttp 26584 9696 "GET /les3/hello/ HTTP/1.1" 200 26
+INFO 2024-01-18 14:31:44,369 autoreload 26584 17944 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 14:31:45,152 autoreload 19936 11788 Watching for file changes with StatReloader
+INFO 2024-01-18 14:33:02,691 autoreload 19936 11788 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 14:33:03,468 autoreload 1916 14992 Watching for file changes with StatReloader
+INFO 2024-01-18 14:33:13,262 autoreload 1916 14992 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 14:33:13,871 autoreload 17520 28484 Watching for file changes with StatReloader
+INFO 2024-01-18 14:33:36,122 autoreload 17520 28484 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 14:33:36,793 autoreload 28112 3172 Watching for file changes with StatReloader
+INFO 2024-01-18 14:58:54,622 autoreload 28112 3172 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 14:58:55,447 autoreload 27760 27152 Watching for file changes with StatReloader
+INFO 2024-01-18 14:59:22,666 autoreload 27760 27152 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 14:59:23,284 autoreload 25504 13584 Watching for file changes with StatReloader
+INFO 2024-01-18 15:00:03,042 autoreload 25504 13584 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 15:00:03,680 autoreload 9008 2472 Watching for file changes with StatReloader
+INFO 2024-01-18 16:07:34,106 autoreload 9008 2472 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 16:07:35,010 autoreload 18856 21840 Watching for file changes with StatReloader
+INFO 2024-01-18 18:06:10,052 autoreload 1688 13892 Watching for file changes with StatReloader
+INFO 2024-01-18 18:06:25,866 autoreload 1688 13892 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:06:26,474 autoreload 24064 19292 Watching for file changes with StatReloader
+INFO 2024-01-18 18:06:51,542 autoreload 24064 19292 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:06:52,092 autoreload 13760 21564 Watching for file changes with StatReloader
+INFO 2024-01-18 18:07:03,720 autoreload 13760 21564 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:07:04,294 autoreload 15272 28464 Watching for file changes with StatReloader
+INFO 2024-01-18 18:07:07,978 basehttp 15272 18420 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+INFO 2024-01-18 18:08:29,428 basehttp 15272 18420 "GET /les3/posts/2022/6/ HTTP/1.1" 200 27
+INFO 2024-01-18 18:09:00,554 autoreload 15272 28464 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:09:01,160 autoreload 28544 22612 Watching for file changes with StatReloader
+INFO 2024-01-18 18:11:22,213 autoreload 28544 22612 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:11:22,922 autoreload 14332 24456 Watching for file changes with StatReloader
+INFO 2024-01-18 18:14:00,668 basehttp 14332 26704 "GET /les3/posts/2022/6/python/ HTTP/1.1" 200 359
+INFO 2024-01-18 18:32:33,881 autoreload 14332 24456 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:32:34,534 autoreload 25224 13008 Watching for file changes with StatReloader
+INFO 2024-01-18 18:33:03,130 autoreload 25224 13008 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:33:03,818 autoreload 28244 8436 Watching for file changes with StatReloader
+INFO 2024-01-18 18:39:23,759 autoreload 28244 8436 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:39:24,732 autoreload 16516 14508 Watching for file changes with StatReloader
+INFO 2024-01-18 18:39:57,127 autoreload 16516 14508 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:39:57,895 autoreload 14736 21340 Watching for file changes with StatReloader
+INFO 2024-01-18 18:40:34,486 autoreload 14736 21340 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 18:40:35,061 autoreload 17720 11356 Watching for file changes with StatReloader
+ERROR 2024-01-18 18:40:44,311 log 17720 20372 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py", line 72, in my_view
+    return render(request, "myapp3/my_template.html", context)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-01-18 18:40:44,313 basehttp 17720 20372 "GET /les3/ HTTP/1.1" 500 87687
+ERROR 2024-01-18 18:42:43,163 log 17720 20372 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py", line 72, in my_view
+    return render(request, "myapp3/my_template.html", context)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-01-18 18:42:43,165 basehttp 17720 20372 "GET /les3/ HTTP/1.1" 500 87675
+INFO 2024-01-18 18:43:28,385 autoreload 17720 11356 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:43:29,006 autoreload 10684 27976 Watching for file changes with StatReloader
+ERROR 2024-01-18 18:43:32,123 log 10684 27960 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py", line 72, in my_view
+    return render(request, "myapp_3/my_template.html", context)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp_3/my_template.html
+ERROR 2024-01-18 18:43:32,126 basehttp 10684 27960 "GET /les3/ HTTP/1.1" 500 87691
+ERROR 2024-01-18 18:43:35,953 log 10684 27960 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py", line 72, in my_view
+    return render(request, "myapp_3/my_template.html", context)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp_3/my_template.html
+ERROR 2024-01-18 18:43:35,954 basehttp 10684 27960 "GET /les3/ HTTP/1.1" 500 87691
+ERROR 2024-01-18 18:43:38,362 log 10684 27960 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py", line 72, in my_view
+    return render(request, "myapp_3/my_template.html", context)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp_3/my_template.html
+ERROR 2024-01-18 18:43:38,364 basehttp 10684 27960 "GET /les3/ HTTP/1.1" 500 87691
+ERROR 2024-01-18 18:43:39,359 log 10684 27960 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py", line 72, in my_view
+    return render(request, "myapp_3/my_template.html", context)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp_3/my_template.html
+ERROR 2024-01-18 18:43:39,361 basehttp 10684 27960 "GET /les3/ HTTP/1.1" 500 87691
+INFO 2024-01-18 18:46:57,570 basehttp 10684 27960 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-01-18 18:57:36,517 autoreload 10684 27976 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:57:37,537 autoreload 27816 20364 Watching for file changes with StatReloader
+INFO 2024-01-18 18:57:42,278 autoreload 27816 20364 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:57:42,932 autoreload 20184 4764 Watching for file changes with StatReloader
+INFO 2024-01-18 18:58:10,384 autoreload 20184 4764 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:58:11,121 autoreload 4836 25124 Watching for file changes with StatReloader
+INFO 2024-01-18 18:58:41,706 autoreload 4836 25124 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 18:58:42,427 autoreload 7468 1744 Watching for file changes with StatReloader
+INFO 2024-01-18 19:01:07,875 autoreload 7468 1744 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 19:01:08,564 autoreload 9232 16040 Watching for file changes with StatReloader
+WARNING 2024-01-18 19:01:39,932 log 9232 3400 Not Found: /les3/if/
+WARNING 2024-01-18 19:01:39,933 basehttp 9232 3400 "GET /les3/if/ HTTP/1.1" 404 3535
+INFO 2024-01-18 19:02:25,278 autoreload 9232 16040 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 19:02:25,920 autoreload 24292 28356 Watching for file changes with StatReloader
+INFO 2024-01-18 19:02:28,989 basehttp 24292 11492 "GET /les3/if/ HTTP/1.1" 200 337
+INFO 2024-01-18 20:36:22,359 autoreload 24292 28356 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 20:36:23,021 autoreload 7488 28324 Watching for file changes with StatReloader
+INFO 2024-01-18 20:37:17,875 autoreload 7488 28324 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 20:37:18,574 autoreload 15664 26036 Watching for file changes with StatReloader
+INFO 2024-01-18 20:39:06,323 autoreload 15664 26036 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 20:39:06,976 autoreload 25992 5676 Watching for file changes with StatReloader
+INFO 2024-01-18 20:39:30,390 autoreload 25992 5676 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 20:39:31,171 autoreload 15396 16696 Watching for file changes with StatReloader
+INFO 2024-01-18 20:39:55,676 autoreload 15396 16696 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 20:39:56,382 autoreload 11632 4764 Watching for file changes with StatReloader
+INFO 2024-01-18 20:40:12,217 basehttp 11632 22940 "GET /les3/for/ HTTP/1.1" 200 956
+INFO 2024-01-18 21:04:00,234 autoreload 11632 4764 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 21:04:01,145 autoreload 21992 27744 Watching for file changes with StatReloader
+INFO 2024-01-18 21:05:02,866 autoreload 21992 27744 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\views.py changed, reloading.
+INFO 2024-01-18 21:05:03,625 autoreload 28180 18872 Watching for file changes with StatReloader
+INFO 2024-01-18 21:05:40,670 autoreload 28180 18872 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 21:05:41,339 autoreload 10764 1920 Watching for file changes with StatReloader
+INFO 2024-01-18 21:06:16,003 autoreload 10764 1920 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\urls.py changed, reloading.
+INFO 2024-01-18 21:06:16,582 autoreload 14888 3080 Watching for file changes with StatReloader
+INFO 2024-01-18 21:06:34,998 basehttp 14888 24816 "GET /les3/index/ HTTP/1.1" 200 205
+INFO 2024-01-18 21:06:47,937 basehttp 14888 24816 "GET /les3/about/ HTTP/1.1" 200 212
+INFO 2024-01-20 15:48:46,137 autoreload 18156 3048 Watching for file changes with StatReloader
+WARNING 2024-01-20 15:48:48,254 log 18156 18988 Not Found: /
+WARNING 2024-01-20 15:48:48,255 basehttp 18156 18988 "GET / HTTP/1.1" 404 2274
+WARNING 2024-01-20 15:48:48,579 log 18156 18988 Not Found: /favicon.ico
+WARNING 2024-01-20 15:48:48,581 basehttp 18156 18988 "GET /favicon.ico HTTP/1.1" 404 2325
+INFO 2024-01-20 15:49:20,674 basehttp 18156 18988 "GET /les3/index/ HTTP/1.1" 200 261
+INFO 2024-01-20 15:52:22,042 autoreload 18156 3048 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\urls.py changed, reloading.
+INFO 2024-01-20 15:52:22,679 autoreload 15772 27464 Watching for file changes with StatReloader
+INFO 2024-01-20 15:53:14,159 basehttp 15772 16856 "GET / HTTP/1.1" 200 261
+INFO 2024-01-20 15:53:15,572 basehttp 15772 16856 "GET / HTTP/1.1" 200 261
+INFO 2024-01-20 15:53:16,653 basehttp 15772 16856 "GET / HTTP/1.1" 200 261
+INFO 2024-01-20 15:53:20,158 basehttp 15772 16856 "GET / HTTP/1.1" 200 261
+INFO 2024-01-20 16:02:37,760 autoreload 15772 27464 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\models.py changed, reloading.
+INFO 2024-01-20 16:02:38,698 autoreload 21380 11672 Watching for file changes with StatReloader
+INFO 2024-01-20 16:51:39,014 autoreload 21044 1188 Watching for file changes with StatReloader
+WARNING 2024-01-20 16:52:14,960 log 21044 9672 Not Found: /les3/author/5/
+WARNING 2024-01-20 16:52:14,960 basehttp 21044 9672 "GET /les3/author/5/ HTTP/1.1" 404 4432
+WARNING 2024-01-20 16:53:11,867 log 21044 9672 Not Found: /les3/author/5/
+WARNING 2024-01-20 16:53:11,868 basehttp 21044 9672 "GET /les3/author/5/ HTTP/1.1" 404 4432
+WARNING 2024-01-20 16:53:35,207 log 21044 9672 Not Found: /les3/author/1/
+WARNING 2024-01-20 16:53:35,207 basehttp 21044 9672 "GET /les3/author/1/ HTTP/1.1" 404 4432
+INFO 2024-01-20 16:55:52,966 basehttp 21044 9672 "GET /les3/author/22/ HTTP/1.1" 200 1309
+INFO 2024-01-20 16:59:21,752 basehttp 21044 9672 "GET /les3/author/22/ HTTP/1.1" 200 1205
+INFO 2024-01-20 17:01:33,836 basehttp 21044 9672 "GET /les3/post/22/ HTTP/1.1" 200 682
+INFO 2024-01-24 13:45:29,067 autoreload 21008 29212 Watching for file changes with StatReloader
+INFO 2024-01-24 13:45:49,730 basehttp 21008 21836 "GET /les4/user/add HTTP/1.1" 200 562
+INFO 2024-01-24 13:51:39,495 basehttp 21008 17416 "GET /les4/user/add HTTP/1.1" 200 784
+INFO 2024-01-24 13:52:12,595 basehttp 21008 17416 "POST /les4/user/add HTTP/1.1" 200 840
+INFO 2024-01-24 13:53:23,672 basehttp 21008 17416 "POST /les4/user/add HTTP/1.1" 200 840
+INFO 2024-01-24 13:54:43,190 basehttp 21008 17416 "POST /les4/user/add HTTP/1.1" 200 840
+INFO 2024-01-24 13:55:33,783 autoreload 21008 29212 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-24 13:55:34,389 autoreload 14820 27412 Watching for file changes with StatReloader
+INFO 2024-01-24 13:55:38,135 views 14820 26032 Получили name='Roman', email='romankos1993@gmail.com', age=24.
+INFO 2024-01-24 13:55:38,157 basehttp 14820 26032 "POST /les4/user/add HTTP/1.1" 200 840
+INFO 2024-01-24 14:10:24,265 autoreload 14820 27412 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 14:10:24,848 autoreload 4392 18092 Watching for file changes with StatReloader
+INFO 2024-01-24 14:12:44,756 autoreload 4392 18092 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 14:12:45,374 autoreload 28708 27912 Watching for file changes with StatReloader
+INFO 2024-01-24 14:14:24,724 autoreload 28708 27912 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py changed, reloading.
+INFO 2024-01-24 14:14:25,363 autoreload 14468 18316 Watching for file changes with StatReloader
+INFO 2024-01-24 14:14:33,200 autoreload 14468 18316 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py changed, reloading.
+INFO 2024-01-24 14:14:33,904 autoreload 21632 8988 Watching for file changes with StatReloader
+INFO 2024-01-24 14:16:37,503 autoreload 21632 8988 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\urls.py changed, reloading.
+INFO 2024-01-24 14:16:38,255 autoreload 5768 18372 Watching for file changes with StatReloader
+INFO 2024-01-24 14:17:02,717 autoreload 5768 18372 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\urls.py changed, reloading.
+INFO 2024-01-24 14:17:03,405 autoreload 508 24284 Watching for file changes with StatReloader
+INFO 2024-01-24 14:19:02,244 basehttp 508 22288 "GET /les4/forms HTTP/1.1" 301 0
+ERROR 2024-01-24 14:19:02,327 log 508 13908 Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py", line 33, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html', {'form': form})
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp4/many_fields_form.html
+ERROR 2024-01-24 14:19:02,329 basehttp 508 13908 "GET /les4/forms/ HTTP/1.1" 500 89311
+INFO 2024-01-24 14:20:27,650 autoreload 508 24284 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py changed, reloading.
+INFO 2024-01-24 14:20:28,262 autoreload 11716 4008 Watching for file changes with StatReloader
+INFO 2024-01-24 14:20:30,575 basehttp 11716 16684 "GET /les4/forms/ HTTP/1.1" 200 1472
+INFO 2024-01-24 14:21:23,771 views 11716 16684 Получили form.cleaned_data={'name': 'Roman', 'email': 'romankos1993@gmail.com', 'age': 27, 'height': 25.5, 'is_active': True, 'birthdate': datetime.date(2012, 1, 24), 'gender': 'M'}.
+ERROR 2024-01-24 14:21:23,807 log 11716 16684 Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\.venv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp_4.views.many_fields_form didn't return an HttpResponse object. It returned None instead.
+ERROR 2024-01-24 14:21:23,808 basehttp 11716 16684 "POST /les4/forms/ HTTP/1.1" 500 76546
+INFO 2024-01-24 14:25:16,337 autoreload 11716 4008 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py changed, reloading.
+INFO 2024-01-24 14:25:16,943 autoreload 5028 15864 Watching for file changes with StatReloader
+INFO 2024-01-24 14:25:21,285 views 5028 5384 Получили form.cleaned_data={'name': 'Roman', 'email': 'romankos1993@gmail.com', 'age': 27, 'height': 25.5, 'is_active': True, 'birthdate': datetime.date(2012, 1, 24), 'gender': 'M'}.
+INFO 2024-01-24 14:25:21,311 basehttp 5028 5384 "POST /les4/forms/ HTTP/1.1" 200 1558
+INFO 2024-01-24 18:27:15,584 autoreload 5028 15864 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 18:27:16,598 autoreload 27332 11272 Watching for file changes with StatReloader
+INFO 2024-01-24 18:29:38,825 autoreload 27332 11272 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 18:29:39,555 autoreload 27068 10900 Watching for file changes with StatReloader
+INFO 2024-01-24 18:35:18,943 autoreload 27068 10900 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py changed, reloading.
+INFO 2024-01-24 18:35:19,737 autoreload 8200 24504 Watching for file changes with StatReloader
+INFO 2024-01-24 18:36:15,712 autoreload 8200 24504 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\views.py changed, reloading.
+INFO 2024-01-24 18:36:16,427 autoreload 17680 7732 Watching for file changes with StatReloader
+INFO 2024-01-24 18:36:42,177 basehttp 17680 23976 "POST /les4/forms/ HTTP/1.1" 200 2257
+INFO 2024-01-24 18:37:37,186 views 17680 23976 Получили form.cleaned_data={'name': 'Roman', 'email': 'romankos1993@gmail.com', 'age': 27, 'height': 25.5, 'is_active': True, 'birthdate': datetime.date(2011, 1, 24), 'gender': 'M', 'message': 'Come home'}.
+INFO 2024-01-24 18:37:37,192 basehttp 17680 23976 "POST /les4/forms/ HTTP/1.1" 200 2187
+INFO 2024-01-24 18:39:12,667 autoreload 17680 7732 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 18:39:13,402 autoreload 19940 4008 Watching for file changes with StatReloader
+INFO 2024-01-24 18:39:23,319 autoreload 19940 4008 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 18:39:24,071 autoreload 27788 14368 Watching for file changes with StatReloader
+INFO 2024-01-24 18:40:39,215 autoreload 27788 14368 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 18:40:39,978 autoreload 18188 25344 Watching for file changes with StatReloader
+INFO 2024-01-24 18:40:48,296 views 18188 19628 Получили form.cleaned_data={'name': 'Roman', 'email': 'romankos1993@gmail.com', 'age': 27, 'height': 25.5, 'is_active': True, 'birthdate': datetime.date(2011, 1, 24), 'gender': 'M', 'message': 'Come home'}.
+INFO 2024-01-24 18:40:48,319 basehttp 18188 19628 "POST /les4/forms/ HTTP/1.1" 200 2187
+INFO 2024-01-24 22:01:36,497 autoreload 18188 25344 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 22:01:37,086 autoreload 17680 1768 Watching for file changes with StatReloader
+INFO 2024-01-24 22:10:30,771 autoreload 17680 1768 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 22:10:31,543 autoreload 19716 10348 Watching for file changes with StatReloader
+INFO 2024-01-24 22:13:02,172 autoreload 19716 10348 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 22:13:02,889 autoreload 21512 8024 Watching for file changes with StatReloader
+INFO 2024-01-24 22:13:24,246 autoreload 21512 8024 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\forms.py changed, reloading.
+INFO 2024-01-24 22:13:24,963 autoreload 11280 19900 Watching for file changes with StatReloader
+INFO 2024-01-24 22:18:54,280 autoreload 11280 19900 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\models.py changed, reloading.
+INFO 2024-01-24 22:18:55,031 autoreload 5420 13584 Watching for file changes with StatReloader
+INFO 2024-01-24 22:19:03,842 autoreload 5420 13584 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\models.py changed, reloading.
+INFO 2024-01-24 22:19:04,462 autoreload 11900 2836 Watching for file changes with StatReloader
+INFO 2024-01-24 22:19:32,907 autoreload 11900 2836 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_4\models.py changed, reloading.
+INFO 2024-01-24 22:19:33,636 autoreload 16220 25168 Watching for file changes with StatReloader
+INFO 2024-01-24 22:31:03,030 autoreload 6760 23912 Watching for file changes with StatReloader
+INFO 2024-01-24 22:31:22,778 basehttp 6760 3304 "GET /les4/user/ HTTP/1.1" 200 794
+INFO 2024-01-24 22:31:39,270 basehttp 6760 3304 "GET /les4/user/ HTTP/1.1" 200 794
+INFO 2024-01-24 22:32:29,625 basehttp 6760 3304 "GET /les4/user/ HTTP/1.1" 200 823
+INFO 2024-01-24 22:32:46,763 basehttp 6760 3304 "POST /les4/user/ HTTP/1.1" 200 993
+INFO 2024-01-24 22:33:37,062 basehttp 6760 3304 "POST /les4/user/ HTTP/1.1" 200 998
+INFO 2024-01-24 22:33:53,245 basehttp 6760 3304 "POST /les4/user/ HTTP/1.1" 200 998
+INFO 2024-01-24 22:33:54,979 basehttp 6760 3304 "POST /les4/user/ HTTP/1.1" 200 998
+INFO 2024-01-24 22:34:30,397 views 6760 3304 Получили name='Roman', email='mail@corp.mail.ru', age=5.
+INFO 2024-01-24 22:34:30,406 basehttp 6760 3304 "POST /les4/user/ HTTP/1.1" 200 885
+INFO 2024-01-25 14:15:01,752 autoreload 19616 18920 Watching for file changes with StatReloader
+INFO 2024-01-25 14:15:20,747 basehttp 19616 4532 "GET /les4/upload/ HTTP/1.1" 200 619
+WARNING 2024-01-25 14:15:21,077 log 19616 4532 Not Found: /favicon.ico
+WARNING 2024-01-25 14:15:21,077 basehttp 19616 4532 "GET /favicon.ico HTTP/1.1" 404 2530
+INFO 2024-01-25 14:16:57,296 basehttp 19616 4532 "POST /les4/upload/ HTTP/1.1" 200 619
+INFO 2024-01-28 18:33:17,316 autoreload 18288 19048 Watching for file changes with StatReloader
+INFO 2024-01-28 18:33:30,075 basehttp 18288 21868 "GET /admin HTTP/1.1" 301 0
+INFO 2024-01-28 18:33:30,094 basehttp 18288 23864 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:33:30,197 basehttp 18288 23864 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-01-28 18:33:30,536 basehttp 18288 14156 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-01-28 18:33:30,545 basehttp 18288 23864 "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-01-28 18:33:30,550 basehttp 18288 24704 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO 2024-01-28 18:33:30,555 basehttp 18288 28848 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-01-28 18:33:30,562 basehttp 18288 7764 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-01-28 18:33:30,571 basehttp 18288 14156 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-01-28 18:33:30,581 basehttp 18288 19928 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-01-28 18:33:35,105 basehttp 18288 19928 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:33:35,139 basehttp 18288 19928 "GET /admin/ HTTP/1.1" 200 5944
+INFO 2024-01-28 18:33:35,172 basehttp 18288 19928 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-01-28 18:33:35,187 basehttp 18288 19928 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-01-28 18:33:35,187 basehttp 18288 14156 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-01-28 18:50:58,558 basehttp 18288 24096 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-01-28 18:50:58,607 basehttp 18288 24096 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 2024-01-28 18:50:58,626 basehttp 18288 27828 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-01-28 18:50:58,641 basehttp 18288 7256 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-01-28 18:50:58,652 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:50:58,652 basehttp 18288 24096 "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-01-28 18:50:58,653 basehttp 18288 14796 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-01-28 18:50:58,656 basehttp 18288 27828 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-01-28 18:50:58,678 basehttp 18288 7256 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-01-28 18:50:58,681 basehttp 18288 31736 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-01-28 18:50:58,683 basehttp 18288 14796 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-01-28 18:50:58,705 basehttp 18288 15464 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-01-28 18:50:58,745 basehttp 18288 15464 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-01-28 18:50:58,784 basehttp 18288 24096 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-01-28 18:50:58,828 basehttp 18288 14796 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-01-28 18:50:58,829 basehttp 18288 24096 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-01-28 18:50:58,829 basehttp 18288 15464 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-01-28 18:51:32,534 basehttp 18288 15464 "GET /admin/auth/user/add/ HTTP/1.1" 200 11238
+INFO 2024-01-28 18:51:32,573 basehttp 18288 24096 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:51:32,580 basehttp 18288 15464 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-01-28 18:51:32,586 basehttp 18288 14796 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-01-28 18:51:32,596 basehttp 18288 24096 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-01-28 18:51:32,601 basehttp 18288 15464 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-01-28 18:52:27,111 basehttp 18288 15464 "POST /admin/auth/user/add/ HTTP/1.1" 200 11745
+INFO 2024-01-28 18:52:27,148 basehttp 18288 15464 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:53:02,003 basehttp 18288 15464 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:53:02,082 basehttp 18288 15464 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 25018
+INFO 2024-01-28 18:53:02,129 basehttp 18288 15464 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:53:02,150 basehttp 18288 7256 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+INFO 2024-01-28 18:53:02,151 basehttp 18288 24096 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-01-28 18:53:02,152 basehttp 18288 31736 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-01-28 18:53:02,153 basehttp 18288 14796 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-01-28 18:53:02,242 basehttp 18288 24096 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-01-28 18:53:02,243 basehttp 18288 15464 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-01-28 18:53:02,243 basehttp 18288 7256 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-01-28 18:53:02,243 basehttp 18288 14796 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-01-28 18:53:02,243 basehttp 18288 31736 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-01-28 18:55:58,361 basehttp 18288 31736 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:55:58,380 basehttp 18288 31736 "GET /admin/auth/user/ HTTP/1.1" 200 12638
+INFO 2024-01-28 18:55:58,414 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:56:04,616 basehttp 18288 31736 "GET /admin/auth/group/ HTTP/1.1" 200 7783
+INFO 2024-01-28 18:56:04,654 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:56:07,433 basehttp 18288 31736 "GET /admin/auth/group/add/ HTTP/1.1" 200 14157
+INFO 2024-01-28 18:56:07,469 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:57:51,751 basehttp 18288 31736 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:57:51,772 basehttp 18288 31736 "GET /admin/auth/group/ HTTP/1.1" 200 9518
+INFO 2024-01-28 18:57:51,832 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:57:55,362 basehttp 18288 31736 "GET /admin/auth/user/ HTTP/1.1" 200 12724
+INFO 2024-01-28 18:57:55,395 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:58:01,971 basehttp 18288 31736 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24794
+INFO 2024-01-28 18:58:02,008 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:58:18,455 basehttp 18288 31736 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:58:18,487 basehttp 18288 31736 "GET /admin/auth/user/ HTTP/1.1" 200 12944
+INFO 2024-01-28 18:58:18,521 basehttp 18288 31736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 18:58:29,654 basehttp 18288 31736 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-01-28 18:58:34,566 basehttp 18288 31736 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:58:34,576 basehttp 18288 31736 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-01-28 18:58:46,708 basehttp 18288 31736 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 18:58:46,721 basehttp 18288 31736 "GET /admin/ HTTP/1.1" 200 4890
+INFO 2024-01-28 19:16:38,059 autoreload 12960 3180 Watching for file changes with StatReloader
+INFO 2024-01-28 19:16:45,274 basehttp 12960 11236 "GET /admin/ HTTP/1.1" 200 4890
+INFO 2024-01-28 19:16:46,947 basehttp 12960 11236 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-01-28 19:16:49,460 basehttp 12960 11236 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:16:49,480 basehttp 12960 11236 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-01-28 19:16:51,533 basehttp 12960 11236 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:16:51,550 basehttp 12960 11236 "GET /admin/ HTTP/1.1" 200 8586
+INFO 2024-01-28 19:18:57,819 autoreload 12960 3180 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_3\admin.py changed, reloading.
+INFO 2024-01-28 19:18:58,472 autoreload 21532 4192 Watching for file changes with StatReloader
+INFO 2024-01-28 19:19:23,216 basehttp 21532 26736 "GET /admin/ HTTP/1.1" 200 9711
+INFO 2024-01-28 19:20:29,027 basehttp 21532 26736 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-01-28 19:20:30,262 basehttp 21532 26736 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:20:30,281 basehttp 21532 26736 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-01-28 19:20:40,640 basehttp 21532 26736 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:20:40,657 basehttp 21532 26736 "GET /admin/ HTTP/1.1" 200 5436
+INFO 2024-01-28 19:20:45,213 basehttp 21532 26736 "GET /admin/myapp_3/post/ HTTP/1.1" 200 17630
+INFO 2024-01-28 19:20:59,495 basehttp 21532 26736 "GET /admin/myapp_3/post/112/change/ HTTP/1.1" 200 10591
+INFO 2024-01-28 19:20:59,537 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:21:06,908 basehttp 21532 26736 "POST /admin/myapp_3/post/112/change/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:21:06,940 basehttp 21532 26736 "GET /admin/myapp_3/post/ HTTP/1.1" 200 17848
+INFO 2024-01-28 19:21:17,149 basehttp 21532 26736 "GET /admin/myapp_3/post/111/change/ HTTP/1.1" 200 10564
+INFO 2024-01-28 19:21:17,187 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:21:30,085 basehttp 21532 26736 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-01-28 19:21:31,176 basehttp 21532 26736 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:21:31,184 basehttp 21532 26736 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-01-28 19:21:33,171 basehttp 21532 26736 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:21:33,191 basehttp 21532 26736 "GET /admin/ HTTP/1.1" 200 9711
+INFO 2024-01-28 19:21:38,407 basehttp 21532 26736 "GET /admin/myapp_3/post/ HTTP/1.1" 200 44929
+INFO 2024-01-28 19:21:38,444 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:21:41,619 basehttp 21532 26736 "GET /admin/myapp_3/post/109/change/ HTTP/1.1" 200 13757
+INFO 2024-01-28 19:21:41,674 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:05,632 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 9128
+INFO 2024-01-28 19:22:05,675 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:08,310 basehttp 21532 26736 "GET /admin/myapp_5/category/add/ HTTP/1.1" 200 9969
+INFO 2024-01-28 19:22:08,350 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:16,662 basehttp 21532 26736 "POST /admin/myapp_5/category/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:22:16,684 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 10890
+INFO 2024-01-28 19:22:16,719 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:19,370 basehttp 21532 26736 "GET /admin/myapp_5/category/add/ HTTP/1.1" 200 9969
+INFO 2024-01-28 19:22:19,407 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:24,017 basehttp 21532 26736 "POST /admin/myapp_5/category/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:22:24,038 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 11245
+INFO 2024-01-28 19:22:24,068 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:31,865 basehttp 21532 26736 "GET /admin/myapp_5/product/ HTTP/1.1" 200 9121
+INFO 2024-01-28 19:22:31,898 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:40,328 basehttp 21532 26736 "GET /admin/myapp_5/product/add/ HTTP/1.1" 200 11859
+INFO 2024-01-28 19:22:40,364 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:22:56,885 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 11021
+INFO 2024-01-28 19:22:56,915 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:00,044 basehttp 21532 26736 "GET /admin/myapp_5/category/2/change/ HTTP/1.1" 200 10228
+INFO 2024-01-28 19:23:00,081 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:08,421 basehttp 21532 26736 "POST /admin/myapp_5/category/2/change/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:23:08,440 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 11247
+INFO 2024-01-28 19:23:08,468 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:19,352 basehttp 21532 26736 "GET /admin/myapp_5/product/ HTTP/1.1" 200 9121
+INFO 2024-01-28 19:23:19,385 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:22,960 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 11021
+INFO 2024-01-28 19:23:22,988 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:25,240 basehttp 21532 26736 "GET /admin/myapp_5/category/add/ HTTP/1.1" 200 9969
+INFO 2024-01-28 19:23:25,273 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:38,735 basehttp 21532 26736 "POST /admin/myapp_5/category/add/ HTTP/1.1" 200 10218
+INFO 2024-01-28 19:23:38,762 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:50,426 basehttp 21532 26736 "GET /admin/myapp_5/product/add/ HTTP/1.1" 200 11859
+INFO 2024-01-28 19:23:50,458 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:23:59,256 basehttp 21532 26736 "GET /admin/myapp_5/category/1/change/?_to_field=id HTTP/1.1" 200 10281
+INFO 2024-01-28 19:23:59,281 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:24:04,776 basehttp 21532 26736 "POST /admin/myapp_5/category/1/change/?_to_field=id HTTP/1.1" 302 0
+INFO 2024-01-28 19:24:04,795 basehttp 21532 26736 "GET /admin/myapp_5/category/ HTTP/1.1" 200 11247
+INFO 2024-01-28 19:24:04,826 basehttp 21532 26736 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:25:12,120 autoreload 21532 4192 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\models.py changed, reloading.
+INFO 2024-01-28 19:25:12,773 autoreload 9080 22064 Watching for file changes with StatReloader
+INFO 2024-01-28 19:25:18,810 basehttp 9080 22104 "GET /admin/myapp_5/category/ HTTP/1.1" 200 10985
+INFO 2024-01-28 19:25:18,838 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:25:28,617 basehttp 9080 22104 "GET /admin/myapp_5/product/ HTTP/1.1" 200 9121
+INFO 2024-01-28 19:25:28,646 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:25:35,991 basehttp 9080 22104 "GET /admin/myapp_5/product/add/ HTTP/1.1" 200 11841
+INFO 2024-01-28 19:25:36,023 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:25:44,160 basehttp 9080 22104 "POST /admin/myapp_5/product/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:25:44,178 basehttp 9080 22104 "GET /admin/myapp_5/product/ HTTP/1.1" 200 10839
+INFO 2024-01-28 19:25:44,200 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:25:52,781 basehttp 9080 22104 "GET /admin/myapp_5/product/add/ HTTP/1.1" 200 11841
+INFO 2024-01-28 19:25:52,820 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:26:01,783 basehttp 9080 22104 "POST /admin/myapp_5/product/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:26:01,804 basehttp 9080 22104 "GET /admin/myapp_5/product/add/ HTTP/1.1" 200 12129
+INFO 2024-01-28 19:26:01,852 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:26:15,166 basehttp 9080 22104 "GET /admin/myapp_5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4445
+INFO 2024-01-28 19:26:15,201 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:26:34,424 basehttp 9080 22104 "POST /admin/myapp_5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+INFO 2024-01-28 19:26:34,540 basehttp 9080 22104 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2024-01-28 19:26:51,474 basehttp 9080 22104 "POST /admin/myapp_5/product/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:26:51,492 basehttp 9080 22104 "GET /admin/myapp_5/product/add/ HTTP/1.1" 200 12170
+INFO 2024-01-28 19:26:51,534 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:27:04,059 basehttp 9080 22104 "POST /admin/myapp_5/product/add/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:27:04,079 basehttp 9080 22104 "GET /admin/myapp_5/product/ HTTP/1.1" 200 11861
+INFO 2024-01-28 19:27:04,115 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:27:23,914 basehttp 9080 22104 "GET /admin/myapp_5/product/1/change/ HTTP/1.1" 200 12104
+INFO 2024-01-28 19:27:23,951 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 19:27:26,269 basehttp 9080 22104 "GET /admin/myapp_5/product/1/delete/ HTTP/1.1" 200 9177
+INFO 2024-01-28 19:27:26,314 basehttp 9080 22104 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-01-28 19:27:57,979 basehttp 9080 22104 "POST /admin/myapp_5/product/1/delete/ HTTP/1.1" 302 0
+INFO 2024-01-28 19:27:58,003 basehttp 9080 22104 "GET /admin/myapp_5/product/ HTTP/1.1" 200 11479
+INFO 2024-01-28 19:27:58,057 basehttp 9080 22104 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:07:33,780 autoreload 9080 22064 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\models.py changed, reloading.
+INFO 2024-01-28 22:07:34,549 autoreload 2776 25040 Watching for file changes with StatReloader
+INFO 2024-01-28 22:17:21,719 autoreload 2188 25824 Watching for file changes with StatReloader
+INFO 2024-01-28 22:17:27,363 basehttp 2188 4888 "GET /admin/myapp_5/product/ HTTP/1.1" 200 11317
+INFO 2024-01-28 22:17:27,415 basehttp 2188 4888 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:17:34,758 basehttp 2188 4888 "GET /admin/myapp_5/product/4/change/ HTTP/1.1" 200 14660
+INFO 2024-01-28 22:17:34,793 basehttp 2188 4888 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:18:15,868 basehttp 2188 4888 "POST /admin/myapp_5/product/4/change/ HTTP/1.1" 302 0
+INFO 2024-01-28 22:18:15,887 basehttp 2188 4888 "GET /admin/myapp_5/product/ HTTP/1.1" 200 11536
+INFO 2024-01-28 22:18:15,951 basehttp 2188 4888 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:18:47,234 autoreload 2188 25824 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-28 22:18:47,882 autoreload 21996 3400 Watching for file changes with StatReloader
+INFO 2024-01-28 22:19:29,186 autoreload 21996 3400 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-28 22:19:29,841 autoreload 24964 7548 Watching for file changes with StatReloader
+INFO 2024-01-28 22:20:45,292 autoreload 24964 7548 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-28 22:20:45,931 autoreload 22808 21744 Watching for file changes with StatReloader
+INFO 2024-01-28 22:20:53,796 basehttp 22808 6116 "GET /admin/myapp_5/product/ HTTP/1.1" 200 11857
+INFO 2024-01-28 22:20:53,858 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:01,912 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=1 HTTP/1.1" 200 12265
+INFO 2024-01-28 22:21:01,944 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:05,234 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=-1 HTTP/1.1" 200 12271
+INFO 2024-01-28 22:21:05,270 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:07,380 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=2.-1 HTTP/1.1" 200 12763
+INFO 2024-01-28 22:21:07,421 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:08,674 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=-2.-1 HTTP/1.1" 200 12771
+INFO 2024-01-28 22:21:08,708 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:24,470 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=3.-2.-1 HTTP/1.1" 200 13188
+INFO 2024-01-28 22:21:24,504 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:28,148 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=-3.-2.-1 HTTP/1.1" 200 13198
+INFO 2024-01-28 22:21:28,194 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:35,496 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=-2.-1 HTTP/1.1" 200 12771
+INFO 2024-01-28 22:21:35,534 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:37,303 basehttp 22808 6116 "GET /admin/myapp_5/product/?o=-1 HTTP/1.1" 200 12271
+INFO 2024-01-28 22:21:37,332 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:21:39,339 basehttp 22808 6116 "GET /admin/myapp_5/product/?o= HTTP/1.1" 200 11957
+INFO 2024-01-28 22:21:39,374 basehttp 22808 6116 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:22:43,745 autoreload 22808 21744 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-28 22:22:44,422 autoreload 30608 22064 Watching for file changes with StatReloader
+INFO 2024-01-28 22:23:38,334 basehttp 30608 15508 "GET /admin/myapp_5/product/?o= HTTP/1.1" 200 11957
+INFO 2024-01-28 22:23:38,365 basehttp 30608 15508 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:23:40,076 basehttp 30608 15508 "GET /admin/myapp_5/product/ HTTP/1.1" 200 12647
+INFO 2024-01-28 22:23:40,114 basehttp 30608 15508 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:24:26,129 autoreload 30608 22064 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-28 22:24:26,832 autoreload 30780 28172 Watching for file changes with StatReloader
+INFO 2024-01-28 22:24:29,619 basehttp 30780 27644 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14047
+INFO 2024-01-28 22:24:29,657 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:24:53,088 basehttp 30780 27644 "GET /admin/myapp_5/product/?date_added__gte=2024-01-21+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15796
+INFO 2024-01-28 22:24:53,124 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:24:56,782 basehttp 30780 27644 "GET /admin/myapp_5/product/?date_added__gte=2024-01-28+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15796
+INFO 2024-01-28 22:24:56,823 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:25:16,221 basehttp 30780 27644 "GET /admin/myapp_5/product/?date_added__gte=2024-01-28+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00&price=999999.99 HTTP/1.1" 200 16131
+INFO 2024-01-28 22:25:16,268 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:25:18,145 basehttp 30780 27644 "GET /admin/myapp_5/product/?date_added__gte=2024-01-28+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 15796
+INFO 2024-01-28 22:25:18,180 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:25:32,444 basehttp 30780 27644 "GET /admin/myapp_5/product/4/change/?_changelist_filters=date_added__gte%3D2024-01-28%2B00%253A00%253A00%252B00%253A00%26date_added__lt%3D2024-01-29%2B00%253A00%253A00%252B00%253A00 HTTP/1.1" 200 15107
+INFO 2024-01-28 22:25:32,492 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:25:49,448 basehttp 30780 27644 "POST /admin/myapp_5/product/4/change/?_changelist_filters=date_added__gte%3D2024-01-28%2B00%253A00%253A00%252B00%253A00%26date_added__lt%3D2024-01-29%2B00%253A00%253A00%252B00%253A00 HTTP/1.1" 302 0
+INFO 2024-01-28 22:25:49,474 basehttp 30780 27644 "GET /admin/myapp_5/product/?date_added__gte=2024-01-28+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 16178
+INFO 2024-01-28 22:25:49,537 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-28 22:25:52,724 basehttp 30780 27644 "GET /admin/myapp_5/product/?date_added__gte=2024-01-28+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00&price=999.99 HTTP/1.1" 200 15084
+INFO 2024-01-28 22:25:52,760 basehttp 30780 27644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:14:46,730 autoreload 968 28848 Watching for file changes with StatReloader
+INFO 2024-01-29 15:14:54,824 basehttp 968 23816 "GET /admin/myapp_5/product/?date_added__gte=2024-01-28+00%3A00%3A00%2B00%3A00&date_added__lt=2024-01-29+00%3A00%3A00%2B00%3A00&price=999.99 HTTP/1.1" 200 15887
+INFO 2024-01-29 15:14:54,909 basehttp 968 23816 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 2024-01-29 15:14:55,288 log 968 23816 Not Found: /favicon.ico
+WARNING 2024-01-29 15:14:55,289 basehttp 968 23816 "GET /favicon.ico HTTP/1.1" 404 2530
+INFO 2024-01-29 15:15:01,605 basehttp 968 23816 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14611
+INFO 2024-01-29 15:15:01,637 basehttp 968 23816 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:15:59,744 basehttp 968 23816 "GET /admin/myapp_5/product/3/change/ HTTP/1.1" 200 14636
+INFO 2024-01-29 15:15:59,785 basehttp 968 23816 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:16:13,137 basehttp 968 23816 "POST /admin/myapp_5/product/3/change/ HTTP/1.1" 302 0
+INFO 2024-01-29 15:16:13,160 basehttp 968 23816 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14824
+INFO 2024-01-29 15:16:13,196 basehttp 968 23816 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:16:22,855 basehttp 968 23816 "GET /admin/myapp_5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 14488
+INFO 2024-01-29 15:16:22,896 basehttp 968 23816 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:17:25,836 basehttp 968 23816 "POST /admin/myapp_5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 9304
+INFO 2024-01-29 15:17:25,967 basehttp 968 23816 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-01-29 15:18:02,176 basehttp 968 23816 "GET /admin/myapp_5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 14488
+INFO 2024-01-29 15:18:55,554 autoreload 968 28848 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-29 15:18:56,399 autoreload 26764 15036 Watching for file changes with StatReloader
+INFO 2024-01-29 15:19:36,242 autoreload 26764 15036 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-29 15:19:37,086 autoreload 14988 18596 Watching for file changes with StatReloader
+INFO 2024-01-29 15:21:29,488 autoreload 14988 18596 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-29 15:21:30,166 autoreload 26412 29152 Watching for file changes with StatReloader
+INFO 2024-01-29 15:21:43,295 basehttp 26412 2496 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14704
+INFO 2024-01-29 15:21:43,333 basehttp 26412 2496 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:21:57,030 basehttp 26412 2496 "POST /admin/myapp_5/product/ HTTP/1.1" 302 0
+INFO 2024-01-29 15:21:57,052 basehttp 26412 2496 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14702
+INFO 2024-01-29 15:21:57,085 basehttp 26412 2496 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:27:50,294 basehttp 26412 15552 "GET /admin/myapp_5/product/4/change/ HTTP/1.1" 200 14657
+INFO 2024-01-29 15:27:50,328 basehttp 26412 15552 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:30:44,564 autoreload 26412 29152 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-29 15:30:45,334 autoreload 14420 20968 Watching for file changes with StatReloader
+INFO 2024-01-29 15:31:47,146 basehttp 14420 13088 "GET /admin/myapp_5/product/4/change/ HTTP/1.1" 200 13879
+INFO 2024-01-29 15:31:47,192 basehttp 14420 13088 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:33:38,187 autoreload 14420 20968 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-29 15:33:38,913 autoreload 19788 31104 Watching for file changes with StatReloader
+INFO 2024-01-29 15:34:54,665 autoreload 19788 31104 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_5\admin.py changed, reloading.
+INFO 2024-01-29 15:34:55,403 autoreload 2792 29008 Watching for file changes with StatReloader
+INFO 2024-01-29 15:36:43,818 basehttp 2792 2632 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14702
+INFO 2024-01-29 15:36:43,851 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:36:50,263 basehttp 2792 2632 "GET /admin/myapp_5/category/ HTTP/1.1" 200 11329
+INFO 2024-01-29 15:36:50,297 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:36:51,985 basehttp 2792 2632 "GET /admin/myapp_5/category/1/change/ HTTP/1.1" 200 10211
+INFO 2024-01-29 15:36:52,014 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:37:00,615 basehttp 2792 2632 "GET /admin/myapp_5/product/ HTTP/1.1" 200 14702
+INFO 2024-01-29 15:37:00,643 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:37:03,717 basehttp 2792 2632 "GET /admin/myapp_5/product/2/change/ HTTP/1.1" 200 15785
+INFO 2024-01-29 15:37:03,747 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-01-29 15:37:03,833 basehttp 2792 7648 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-01-31 21:30:04,763 autoreload 16640 22908 Watching for file changes with StatReloader
+INFO 2024-01-31 21:30:21,755 basehttp 16640 10928 "GET / HTTP/1.1" 200 10036
+INFO 2024-01-31 21:30:21,803 basehttp 16640 10928 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-01-31 21:30:21,804 basehttp 16640 22776 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2024-01-31 21:30:21,828 basehttp 16640 22776 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-01-31 21:30:21,841 basehttp 16640 22776 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2024-01-31 21:31:07,234 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=HistoryPanel HTTP/1.1" 200 2505
+INFO 2024-01-31 21:31:07,241 basehttp 16640 22776 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2024-01-31 21:31:15,100 basehttp 16640 22776 "GET /__debug__/history_sidebar/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&exclude_history=True HTTP/1.1" 200 10769
+INFO 2024-01-31 21:31:17,075 basehttp 16640 22776 "GET /__debug__/history_sidebar/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&exclude_history=True HTTP/1.1" 200 10769
+INFO 2024-01-31 21:31:29,777 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=VersionsPanel HTTP/1.1" 200 761
+INFO 2024-01-31 21:31:46,061 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=SettingsPanel HTTP/1.1" 200 27129
+INFO 2024-01-31 21:32:02,392 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=HeadersPanel HTTP/1.1" 200 5266
+INFO 2024-01-31 21:32:47,993 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=RequestPanel HTTP/1.1" 200 1820
+INFO 2024-01-31 21:33:26,316 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=SQLPanel HTTP/1.1" 200 16373
+INFO 2024-01-31 21:34:14,638 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=StaticFilesPanel HTTP/1.1" 200 38585
+INFO 2024-01-31 21:34:57,658 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=TemplatesPanel HTTP/1.1" 200 6350
+INFO 2024-01-31 21:35:26,433 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2024-01-31 21:35:32,543 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=SignalsPanel HTTP/1.1" 200 2231
+INFO 2024-01-31 21:37:02,806 basehttp 16640 22776 "GET /les4/user/add HTTP/1.1" 200 11056
+INFO 2024-01-31 21:37:02,848 basehttp 16640 22776 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:02,849 basehttp 16640 20456 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:02,850 basehttp 16640 22500 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:02,864 basehttp 16640 22500 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:06,268 basehttp 16640 22500 "GET /__debug__/render_panel/?store_id=9050f7d91cc540edb5f0f3eb18b28565&panel_id=ProfilingPanel HTTP/1.1" 200 45209
+INFO 2024-02-01 17:17:12,331 autoreload 3588 16560 Watching for file changes with StatReloader
+INFO 2024-02-01 17:18:01,255 autoreload 3588 16560 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_6\views.py changed, reloading.
+INFO 2024-02-01 17:18:01,915 autoreload 21976 2780 Watching for file changes with StatReloader
+INFO 2024-02-01 17:18:13,166 basehttp 21976 22104 "GET / HTTP/1.1" 200 10483
+INFO 2024-02-01 17:18:13,204 basehttp 21976 22104 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-02-01 17:18:13,204 basehttp 21976 18092 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-02-01 17:18:13,268 basehttp 21976 18092 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-02-01 17:18:13,295 basehttp 21976 18092 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-02-01 17:18:13,543 log 21976 18092 Not Found: /favicon.ico
+WARNING 2024-02-01 17:18:13,544 basehttp 21976 18092 "GET /favicon.ico HTTP/1.1" 404 12954
+WARNING 2024-02-01 17:18:42,015 log 21976 18092 Not Found: /les6/
+WARNING 2024-02-01 17:18:42,015 basehttp 21976 18092 "GET /les6/ HTTP/1.1" 404 13339
+INFO 2024-02-01 17:18:55,508 basehttp 21976 18092 "GET /les6/db HTTP/1.1" 200 10827
+INFO 2024-02-01 17:18:55,556 basehttp 21976 22104 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2024-02-01 17:19:24,310 basehttp 21976 22104 "GET /les6/db/ HTTP/1.1" 200 10588
+INFO 2024-02-01 17:19:55,372 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=0af5c3315d1d4b8e8aa8d9f93c2a666b&panel_id=SQLPanel HTTP/1.1" 200 5563
+INFO 2024-02-01 17:20:37,335 basehttp 21976 22104 "GET /les6/view/ HTTP/1.1" 200 10573
+INFO 2024-02-01 17:20:42,698 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=5835f6dd0b574cc28595d26049a902c9&panel_id=RequestPanel HTTP/1.1" 200 1882
+INFO 2024-02-01 17:20:47,502 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=5835f6dd0b574cc28595d26049a902c9&panel_id=SQLPanel HTTP/1.1" 200 6791
+INFO 2024-02-01 17:21:00,689 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=5835f6dd0b574cc28595d26049a902c9&panel_id=ProfilingPanel HTTP/1.1" 200 46176
+INFO 2024-02-01 17:21:40,551 basehttp 21976 22104 "GET /les6/template/ HTTP/1.1" 200 10557
+INFO 2024-02-01 17:21:48,383 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=SQLPanel HTTP/1.1" 200 27801
+INFO 2024-02-01 17:22:03,851 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=TemplatesPanel HTTP/1.1" 200 7042
+INFO 2024-02-01 17:22:29,764 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=ProfilingPanel HTTP/1.1" 200 35917
+INFO 2024-02-01 17:23:19,027 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=HistoryPanel HTTP/1.1" 200 12364
+INFO 2024-02-01 17:23:19,053 basehttp 21976 22104 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2024-02-01 17:44:31,453 autoreload 21976 2780 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:44:32,640 autoreload 8928 8472 Watching for file changes with StatReloader
+INFO 2024-02-01 17:45:59,576 autoreload 8928 8472 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:46:00,384 autoreload 21808 24376 Watching for file changes with StatReloader
+INFO 2024-02-01 17:46:46,467 autoreload 21808 24376 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:46:47,156 autoreload 2912 20996 Watching for file changes with StatReloader
+INFO 2024-02-01 17:47:12,188 autoreload 2912 20996 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:47:13,000 autoreload 16264 9892 Watching for file changes with StatReloader
+INFO 2024-02-01 17:47:55,702 autoreload 16264 9892 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:47:56,493 autoreload 17036 11996 Watching for file changes with StatReloader
+INFO 2024-02-01 17:48:24,582 autoreload 17036 11996 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:48:25,405 autoreload 9772 12116 Watching for file changes with StatReloader
+INFO 2024-02-01 18:23:05,994 autoreload 9772 12116 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 18:23:06,735 autoreload 20612 15736 Watching for file changes with StatReloader
+INFO 2024-02-01 18:25:57,114 autoreload 20612 15736 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 18:25:57,757 autoreload 3932 14504 Watching for file changes with StatReloader

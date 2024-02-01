@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<h3>{{ title }}</h3>
+{% if total %}
+<p>{{ total }}</p>
+{% endif %}
+{% if products %}
+<p>{{ products.total_quantity }}</p>
+{% endif %}
+{% endblock %}
